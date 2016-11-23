@@ -5,6 +5,6 @@ package com.lujianing.baidu;
  */
 public class BaiduUtils {
     public static String getLog(){
-        return "this is from common-third";
+        return "this is from common-third";//这里是分支branch01
     }
 }
