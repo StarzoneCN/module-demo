@@ -5,6 +5,6 @@ package com.lujianing.utils;
  */
 public class StringUtil {
     public static String getLog(){
-        return "this is from common-utils";
+        return "this is from common-utils";//这是分支branch01
     }
 }
